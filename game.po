@@ -4,17 +4,17 @@
 #v1.12.11
 msgctxt "building_poi_curve"
 msgid "Demand curve:"
-msgstr "Curva de demanda:"
+msgstr "Kurbo de postulado:"
 
 #v1.12.11
 msgctxt "building_poi_pop"
 msgid "Population:"
-msgstr "Población:"
+msgstr "Loĝantaro:"
 
 #v1.12.11
 msgctxt "confirm_clip_unknown_desc_2d"
 msgid "One or more objects in the clip references an unknown demand curve:\n"
-msgstr "Uno o mas objetos referencian una curva de demanda desconocida:\n"
+msgstr "Unu aŭ pli objektoj en la poŝo referencas nekonatan postuladkurbo:\n"
 
 #v1.12.11
 msgctxt "demand_cache_warmup"
@@ -24,32 +24,32 @@ msgstr "UNUSED, DO NOT TRANSLATE! Warming up tile pax path cache, game speed is 
 #v1.12.11
 msgctxt "demand_clone"
 msgid "Clone demand curve"
-msgstr "Clonar curva de demanda"
+msgstr "Klonu postuladkurbon"
 
 #v1.12.11
 msgctxt "demand_curve_disabled"
 msgid "<Disabled>"
-msgstr "<Desactivada>"
+msgstr "<Malebligita>"
 
 #v1.12.11
 msgctxt "demand_default_name"
 msgid "Population"
-msgstr "Población"
+msgstr "Loĝantaro"
 
 #v1.12.11
 msgctxt "demand_delete"
 msgid "Delete selected demand curve"
-msgstr "Borrar curva de demanda seleccionada"
+msgstr "Forigu la elektitan postuladkurbon"
 
 #v1.12.11
 msgctxt "demand_editor_focus_dest"
 msgid "Destination"
-msgstr "Destino"
+msgstr "Celloko"
 
 #v1.12.11
 msgctxt "demand_editor_focus_distance"
 msgid "Distance"
-msgstr "Distancia"
+msgstr "Distanco"
 
 #v1.12.11
 msgctxt "demand_editor_focus_info"
@@ -59,287 +59,287 @@ msgstr "Info"
 #v1.12.11
 msgctxt "demand_editor_focus_origin"
 msgid "Origin"
-msgstr "Origen"
+msgstr "Origino"
 
 #v1.12.11
 msgctxt "demand_editor_focus_range0"
 msgid "0 km to 95 km"
-msgstr "0 km a 95 km"
+msgstr "De 0 km al 95 km"
 
 #v1.12.11
 msgctxt "demand_editor_title"
 msgid "Demand curves editor"
-msgstr "Editor de curvas de demanda"
+msgstr "Redaktilo de postuladkurboj"
 
 #v1.12.11
 msgctxt "demand_export"
 msgid "Export to TSV file"
-msgstr "Exportar a fichero TSV"
+msgstr "Elporti al TSV dosiero"
 
 #v1.12.11
 msgctxt "demand_import_new"
 msgid "Import new demand curve from TSV file"
-msgstr "Importar nueva curva de demanda de fichero TSV"
+msgstr "Enporti novan postuladkurbon el TSV dosiero"
 
 #v1.12.11
 msgctxt "demand_import_replace"
 msgid "Replace with curve from TSV file"
-msgstr "Remplazar curva de demanda con fichero TSV"
+msgstr "Anstataŭigu per kurbo de TSV dosiero"
 
 #v1.12.11
 msgctxt "demand_info_file_ops"
 msgid "Export and replace"
-msgstr "Exportar y reemplazar"
+msgstr "Elportu kaj anstataŭu"
 
 #v1.12.11
 msgctxt "demand_info_move_pois"
 msgid "Bulk change POIs into a different curve"
-msgstr "Cambiar todos los POIs a una curva diferente"
+msgstr "Ŝanĝu la kurbojn de multaj interespunktoj"
 
 #v1.12.11
 msgctxt "demand_info_move_pois_but"
 msgid "Change all POIs"
-msgstr "Cambiar todos los POIs"
+msgstr "Ŝanĝu ĉiuj interespunktoj"
 
 #v1.12.11
 msgctxt "demand_info_move_pois_label"
 msgid "Change to:"
-msgstr "Cambiar a:"
+msgstr "Ŝanĝu al:"
 
 #v1.12.11
 msgctxt "demand_info_name"
 msgid "Name:"
-msgstr "Nombre:"
+msgstr "Nomo:"
 
 #v1.12.11
 msgctxt "demand_info_poi"
 msgid "Points of interest:"
-msgstr "Punto de interés:"
+msgstr "Interespunkto:"
 
 #v1.12.11
 msgctxt "demand_info_pop"
 msgid "Population:"
-msgstr "Población:"
+msgstr "Loĝantaro:"
 
 #v1.12.11
 msgctxt "demand_pax_spawn"
 msgid "{} new pax/min."
-msgstr "{} nuevos pax/min."
+msgstr "{} novaj paks/min."
 
 #v1.12.11
 msgctxt "demand_rebuild_tp"
 msgid "Rebuilding demand data..."
-msgstr "Reconstruyendo datos de demanda..."
+msgstr "Rekonstruado de datumoj de postulado..."
 
 #v1.12.11
 msgctxt "demand_replace_default"
 msgid "Replace with default curve"
-msgstr "Reemplazar con curva por defecto"
+msgstr "Anstataŭigu per defaŭlta kurbo"
 
 #v1.12.11
 msgctxt "demand_replace_file"
 msgid "Replace from TSV file"
-msgstr "Reemplazar con fichero TSV"
+msgstr "Anstataŭigu de TSV dosiero"
 
 #v1.12.11
 msgctxt "demand_time_copy_day"
 msgid "Copy day"
-msgstr "Copiar día"
+msgstr "Kopiu tagon"
 
 #v1.12.11
 msgctxt "demand_time_paste_day"
 msgid "Paste day"
-msgstr "Pegar día"
+msgstr "Algluu tagon"
 
 #v1.12.11
 msgctxt "demand_time_set_0"
 msgid "All 0%"
-msgstr "Todo 0%"
+msgstr "Ĉiuj 0%"
 
 #v1.12.11
 msgctxt "demand_time_set_100"
 msgid "All 100%"
-msgstr "Todo 100%"
+msgstr "Ĉiuj 100%"
 
 #v1.12.11
 msgctxt "editor_poi"
 msgid "Create new points of interest and signs"
-msgstr "Crear nuevos puntos de interés y signos"
+msgstr "Kreu novajn interespunktojn kaj signoj"
 
 #v1.12.11
 msgctxt "editor_tip_new_poi_left"
 msgid "Left click to create a new point of interest or sign"
-msgstr "Click izquierdo para crear un nuevo punto de interés o signo"
+msgstr "Maldekstre alklaku por krei novan interespunkton aŭ signon"
 
 #v1.12.11
 msgctxt "fmt_copy_of"
 msgid "Copy of {}"
-msgstr "Copia de {}"
+msgstr "Kopio de {}"
 
 #v1.12.11
 msgctxt "info_company_active_tiles"
 msgid "Active pax tiles:"
-msgstr "Zonas de pax activas:"
+msgstr "Aktivaj paks-aj zonoj:"
 
 #v1.12.11
 msgctxt "info_table_pax_location"
 msgid "Location"
-msgstr "Lugar"
+msgstr "Loko"
 
 #v1.12.11
 msgctxt "info_table_pax_location_tp"
 msgid "Current location"
-msgstr "Lugar actual"
+msgstr "Nuna loko"
 
 #v1.12.11
 msgctxt "info_table_station_city_tp"
 msgid "Group by city"
-msgstr "Agrupar por ciudad"
+msgstr "Grupigu per urbo"
 
 #v1.12.11
 msgctxt "info_table_station_dist_tp"
 msgid "Sort by distance"
-msgstr "Ordenar por distancia"
+msgstr "Ordigi per distanco"
 
 #v1.12.11
 msgctxt "mod_poi_layer_options_title"
 msgid "Mod POI layer options"
-msgstr "Opciones capas de PDI"
+msgstr "Modifaĵaj opcioj pri interespunkta tavolo"
 
 #v1.12.11
 msgctxt "mplo_default_demand"
 msgid "<Controlled by the mod>"
-msgstr "<Controlado por el mod>"
+msgstr "<Regita per la modifaĵo>"
 
 #v1.12.11
 msgctxt "mplo_demand_curve"
 msgid "Demand curve:"
-msgstr "Curva de demanda:"
+msgstr "Kurbo de postulado:"
 
 #v1.12.11
 msgctxt "mplo_hidden"
 msgid "Hidden"
-msgstr "Oculto"
+msgstr "Kaŝita"
 
 #v1.12.11
 msgctxt "mplo_icons_only"
 msgid "Icons only"
-msgstr "Solo iconos"
+msgstr "Nur ikonoj"
 
 #v1.12.11
 msgctxt "mplo_labels_and_icons"
 msgid "Labels and icons"
-msgstr "Texto e iconos"
+msgstr "Teksto kaj ikonoj"
 
 #v1.12.11
 msgctxt "mplo_map_vis"
 msgid "Map display:"
-msgstr "Mostrar en mapa:"
+msgstr "Montru sur mapo:"
 
 #v1.12.11
 msgctxt "mvo_mod_poi_labels"
 msgid "POI mod labels"
-msgstr "Texto mods de PDI"
+msgstr "Teksto de interespunkta modifaĵo"
 
 #v1.12.11
 msgctxt "option_company_demand_editor"
 msgid "Demand curve editor"
-msgstr "Editar curvas de demanda"
+msgstr "Redaktilo de interespunktoj"
 
 #v1.12.11
 msgctxt "option_company_mod_poi_layer_editor"
 msgid "Mod POI layer options"
-msgstr "Opciones mods de PDI"
+msgstr "Modifaĵaj opcioj pri interespunkta tavolo"
 
 #v1.12.11
 msgctxt "option_company_pax_spawn_station_pick"
 msgid "Pax spawn station:"
-msgstr "Estación origen pax:"
+msgstr "Paks generitaj en stacio:"
 
 #v1.12.11
 msgctxt "option_company_pax_spawn_station_random"
 msgid "Random"
-msgstr "Aleatoria"
+msgstr "Hazarda"
 
 #v1.12.11
 msgctxt "option_company_pax_spawn_station_shortest_walk"
 msgid "Shortest walk"
-msgstr "Menor caminada"
+msgstr "Plej mallonga promeno"
 
 #v1.12.11
 msgctxt "option_company_pax_spawn_station_shortest_walk_best_path"
 msgid "Shortest walk, best path"
-msgstr "Menor caminada, mejor ruta"
+msgstr "Plej mallonga promeno, plej bona vojplano"
 
 #v1.12.11
 msgctxt "pax_total_demand"
 msgid "Total: {0}"
-msgstr "Total: {0}"
+msgstr "Entute: {0}"
 
 #v1.12.11
 msgctxt "pax_total_demand_as_destination"
 msgid "As destination: {0}"
-msgstr "Como destino: {0}"
+msgstr "Kiel celloko: {0}"
 
 #v1.12.11
 msgctxt "pax_total_demand_as_origin"
 msgid "As origin: {0}"
-msgstr "Como origen: {0}"
+msgstr "Kiel origino: {0}"
 
 #v1.12.11
 msgctxt "poi_instance_editor"
 msgid "Point of interest properties"
-msgstr "Propiedades punto de interés"
+msgstr "Opcioj de interespunktoj"
 
 #v1.12.11
 msgctxt "poi_instance_editor_new"
 msgid "New point of interest properties"
-msgstr "Propiedades de nuevo punto de interés"
+msgstr "Opcioj de novaj interespunktoj"
 
 #v1.12.11
 msgctxt "sign_instance_editor"
 msgid "Sign properties"
-msgstr "Propiedades signo"
+msgstr "Opcioj de signoj"
 
 #v1.12.11
 msgctxt "sign_instance_editor_new"
 msgid "New sign properties"
-msgstr "Propiedades nuevo signo"
+msgstr "Opcioj de novaj signoj"
 
 #v1.12.11
 msgctxt "station_demand_aggregate"
 msgid "Aggregate"
-msgstr "Agregar"
+msgstr "Entute"
 
 #v1.12.11
 msgctxt "station_demand_aggregated_started_at"
 msgid "Started at {}"
-msgstr "Empezando en {}"
+msgstr "Komencis ĉe {}"
 
 #v1.12.11
 msgctxt "station_demand_realtime"
 msgid "Realtime"
-msgstr "Tiempo real"
+msgstr "Nuntempe"
 
 #v1.12.11
 msgctxt "station_infowin_demand"
 msgid "Ridership"
-msgstr "Ocupación"
+msgstr "Rajdantoj"
 
 #v1.12.11
 msgctxt "station_rt_demand_dest"
 msgid "As destination"
-msgstr "Como destino"
+msgstr "Kiel celloko"
 
 #v1.12.11
 msgctxt "station_rt_demand_origin"
 msgid "As origin"
-msgstr "Como origen"
+msgstr "Kiel origino"
 
 #v1.12.11
 msgctxt "waiting_at_station"
 msgid "Waiting at station"
-msgstr "Esperando en estación"
+msgstr "Atendante ĉe stacio"
 
 
 
@@ -349,17 +349,17 @@ msgstr "Esperando en estación"
 #v1.12.11
 msgctxt "confirm_clip_unknown_desc_3"
 msgid "Copy with built-in to replace unknown objects with built-in objects, avoiding new mods, object kinds and demand curves being imported into your game.\n"
-msgstr "Copia usando objetos por defecto para reemplazar los objetos desconocidos con objetos base del juego, evitando tener que añadir o activar nuevos tipos de objetos o mods.\n"
+msgstr "Kopiu per enkonstruitaj por anstataŭigi nekonatajn objektojn per enkontruitaj objektoj, evitante alportado de novaj modifaĵoj, tipoj de objektoj kaj postuladkurboj al via ludo.\n"
 
 #v1.12.11
 msgctxt "confirm_clip_unknown_desc_4"
 msgid "Copy with new mods to import new object kinds and to enable their mods and demand curves in your game. You will then need to subscribe to these mods in the Steam Workshop if you are not yet subscribed."
-msgstr "Copia usando nuevos mods para añadir los tipos de objetos desconocidos a tu juego. Necesitarás suscribirte a sus mods en el Workshop si todavía no estás suscrito."
+msgstr "Kopiu per novaj modifaĵoj por alporti novajn tipojn de objektoj kaj ebligi iliaj modifaĵoj kaj postuladkurboj. Vi devos aboni tiujn modifaĵoj en la Steam Workshop se vi ne jam estas abonanto."
 
 #v1.12.11
 msgctxt "option_company_demand"
 msgid "Global demand factor:"
-msgstr "Demanda global de pax:"
+msgstr "Tutmonda multiplikanto de postulado:"
 
 
 
@@ -369,107 +369,107 @@ msgstr "Demanda global de pax:"
 #v1.1.31
 msgctxt "10_minutes"
 msgid "10 minutes"
-msgstr "10 minutos"
+msgstr "10 minutoj"
 
 #v1.1.31
 msgctxt "15_minutes"
 msgid "15 minutes"
-msgstr "15 minutos"
+msgstr "15 minutoj"
 
 #v1.1.31
 msgctxt "20_minutes"
 msgid "20 minutes"
-msgstr "20 minutos"
+msgstr "20 minutoj"
 
 #v1.1.31
 msgctxt "30_minutes"
 msgid "30 minutes"
-msgstr "30 minutos"
+msgstr "30 minutoj"
 
 #v1.1.31
 msgctxt "5_minutes"
 msgid "5 minutes"
-msgstr "5 minutos"
+msgstr "5 minutoj"
 
 #v1.1.31
 msgctxt "60_minutes"
 msgid "60 minutes"
-msgstr "60 minutos"
+msgstr "60 minutoj"
 
 #v1.3.13
 msgctxt "acc_export_desc"
 msgid "Accounting data has been exported to {}"
-msgstr "Se ha exportado la contabilidad a {}"
+msgstr "Statistikaj datumoj estis elportita al {}"
 
 #v1.3.13
 msgctxt "acc_export_title"
 msgid "Exported accounting data"
-msgstr "Contabilidad exportada"
+msgstr "Elportitaj statistikaj datumoj"
 
 #v1.1.31
 msgctxt "accounting"
 msgid "Accounting"
-msgstr "Contabilidad"
+msgstr "Statistiko"
 
 #v1.1.31
 msgctxt "accounting_cash_total"
 msgid "$ Total"
-msgstr "$ Total"
+msgstr "$ Entute"
 
 #v1.1.31
 msgctxt "accounting_construction"
 msgid "Construction"
-msgstr "Construcción"
+msgstr "Konstruado"
 
 #v1.4.15
 msgctxt "accounting_construction_buildings"
 msgid "Buildings"
-msgstr "Edificios"
+msgstr "Konstruaĵoj"
 
 #v1.1.31
 msgctxt "accounting_construction_depots"
 msgid "Depots"
-msgstr "Depósitos"
+msgstr "Trajndeponejoj"
 
 #v1.4.15
 msgctxt "accounting_construction_stations"
 msgid "Platforms"
-msgstr "Andén"
+msgstr "Platformoj"
 
 #v1.1.31
 msgctxt "accounting_construction_total"
 msgid "Total construction"
-msgstr "Total construcción"
+msgstr "Konstruado entute"
 
 #v1.1.31
 msgctxt "accounting_construction_tracks"
 msgid "Tracks"
-msgstr "Vías"
+msgstr "Reloj"
 
 #v1.5.31
 msgctxt "accounting_events_post"
 msgid "events"
-msgstr "eventos"
+msgstr "eventoj"
 
 #v1.1.31
 msgctxt "accounting_financing"
 msgid "Financing"
-msgstr "Financiación"
+msgstr "Financado"
 
 #v1.1.31
 msgctxt "accounting_financing_credit"
 msgid "Credit"
-msgstr "Crédito"
+msgstr "Kredito"
 
 #v1.1.31
 msgctxt "accounting_financing_interest"
 msgid "Interest"
-msgstr "Interés"
+msgstr "Interezo"
 
 #v1.1.37
 msgctxt "accounting_found_station_too_full"
 msgid "Compen.: full station"
-msgstr "Compen.: estación llena"
+msgstr "Kompenso: plena stacio"
 
 #v1.1.72
 msgctxt "accounting_km_post"
@@ -479,317 +479,317 @@ msgstr "km"
 #v1.1.31
 msgctxt "accounting_pax"
 msgid "Passengers"
-msgstr "Pasajeros"
+msgstr "Pasaĝeroj"
 
 #v1.1.31
 msgctxt "accounting_pax_boarded"
 msgid "Boarded train"
-msgstr "Entrado tren"
+msgstr "Eniris en trajnon"
 
 #v1.1.31
 msgctxt "accounting_pax_compensated"
 msgid "Compensated"
-msgstr "Compensado"
+msgstr "Kompensitaj"
 
 #v1.5.31
 msgctxt "accounting_pax_found_train_too_full"
 msgid "Boarding failed: full train"
-msgstr "Tren lleno, imposible subir"
+msgstr "Eniro malsukcesa: plena trajno"
 
 #v1.1.37
 msgctxt "accounting_pax_intervention"
 msgid "Compen.: intervention"
-msgstr "Compen.: intervención"
+msgstr "Kompensita: interveno"
 
 #v1.1.37
 msgctxt "accounting_pax_lost"
 msgid "Compen.: lost"
-msgstr "Compen.: perdido"
+msgstr "Kompensita: perdita"
 
 #v1.1.72
 msgctxt "accounting_pax_never_serviced"
 msgid "Never serviced"
-msgstr "Sin servicio"
+msgstr "Neniam servita"
 
 #v1.1.72
 msgctxt "accounting_pax_new"
 msgid "New pax"
-msgstr "Nuevos pax"
+msgstr "Novaj paks-oj"
 
 #v1.1.31
 msgctxt "accounting_pax_post"
 msgid "pax"
-msgstr "pax"
+msgstr "paks"
 
 #v1.1.37
 msgctxt "accounting_pax_reached_depot"
 msgid "Refund: reached depot"
-msgstr "Reemb.: llegó a depósito"
+msgstr "Repagita: atingis deponejon"
 
 #v1.1.31
 msgctxt "accounting_pax_reached_destination"
 msgid "Reached destination"
-msgstr "Llegó a destinación"
+msgstr "Atingis cellokon"
 
 #v1.1.31
 msgctxt "accounting_pax_reached_transfer"
 msgid "Reached transfer"
-msgstr "Llegó a transferencia"
+msgstr "Atingis translokigon"
 
 #v1.1.37
 msgctxt "accounting_pax_refunded"
 msgid "Refunded (incl. compen.)"
-msgstr "Reembolsado (incl. compen.)"
+msgstr "Repagita (inkl. kompen.)"
 
 #v1.1.37
 msgctxt "accounting_pax_refused_fare"
 msgid "Refund: too high fare"
-msgstr "Reemb.: tarifa demasiado alta"
+msgstr "Repagita: tro multekosta tarifo"
 
 #v1.1.31
 msgctxt "accounting_pax_spawned"
 msgid "Started trip"
-msgstr "Empezó viaje"
+msgstr "Komencis vojaĝon"
 
 #v1.1.37
 msgctxt "accounting_pax_waited_too_long"
 msgid "Compen.: waited too long"
-msgstr "Compen.: esperó demasiado"
+msgstr "Kompensita: tro longe atendis"
 
 #v1.1.31
 msgctxt "accounting_period_day"
 msgid "Day"
-msgstr "Día"
+msgstr "Tago"
 
 #v1.1.72
 msgctxt "accounting_period_lifetime"
 msgid "Lifetime"
-msgstr "Desde creación"
+msgstr "Ekde kreado"
 
 #v1.1.72
 msgctxt "accounting_period_lifetime_unknown"
 msgid "Since its creation"
-msgstr "Desde creación"
+msgstr "Ekde sia kreado"
 
 #v1.1.31
 msgctxt "accounting_period_month"
 msgid "Month"
-msgstr "Mes"
+msgstr "Monato"
 
 #v1.1.31
 msgctxt "accounting_period_quarter"
 msgid "Quarter"
-msgstr "Trimestre"
+msgstr "Trimonato"
 
 #v1.1.31
 msgctxt "accounting_period_week"
 msgid "Week"
-msgstr "Semana"
+msgstr "Semajno"
 
 #v1.1.31
 msgctxt "accounting_period_year"
 msgid "Year"
-msgstr "Año"
+msgstr "Jaro"
 
 #v1.1.31
 msgctxt "accounting_quarter1"
 msgid "Q1"
-msgstr "T1"
+msgstr "Q1"
 
 #v1.1.31
 msgctxt "accounting_quarter2"
 msgid "Q2"
-msgstr "T2"
+msgstr "Q2"
 
 #v1.1.31
 msgctxt "accounting_quarter3"
 msgid "Q3"
-msgstr "T3"
+msgstr "Q3"
 
 #v1.1.31
 msgctxt "accounting_quarter4"
 msgid "Q4"
-msgstr "T4"
+msgstr "Q4"
 
 #v1.1.72
 msgctxt "accounting_stats_now"
 msgid "Now"
-msgstr "Ahora"
+msgstr "Nune"
 
 #v1.1.31
 msgctxt "accounting_ticketing"
 msgid "Ticketing"
-msgstr "Billetes"
+msgstr "Biletado"
 
 #v1.1.31
 msgctxt "accounting_ticketing_compensations"
 msgid "Compensations"
-msgstr "Compensaciones"
+msgstr "Kompensoj"
 
 #v1.1.31
 msgctxt "accounting_ticketing_fares"
 msgid "Fares"
-msgstr "Tarifas"
+msgstr "Tarifoj"
 
 #v1.1.37
 msgctxt "accounting_ticketing_profit"
 msgid "Profit"
-msgstr "Beneficios"
+msgstr "Profito"
 
 #v1.1.31
 msgctxt "accounting_ticketing_refunds"
 msgid "Refunds"
-msgstr "Reembolsos"
+msgstr "Repagoj"
 
 #v1.1.31
 msgctxt "accounting_trains"
 msgid "Trains"
-msgstr "Trenes"
+msgstr "Trajnoj"
 
 #v1.8.24
 msgctxt "accounting_trains_collisions"
 msgid "Collisions"
-msgstr "Colisiones"
+msgstr "Kolizioj"
 
 #v1.7.15
 msgctxt "accounting_trains_departure"
 msgid "Departures"
-msgstr "Salidas"
+msgstr "Foriroj"
 
 #v1.8.24
 msgctxt "accounting_trains_extra_stop_time"
 msgid "Extra stop"
-msgstr "Parada extra"
+msgstr "Plua haltado"
 
 #v1.1.31
 msgctxt "accounting_trains_intervention"
 msgid "Interventions"
-msgstr "Intervenciones"
+msgstr "Intervenoj"
 
 #v1.8.24
 msgctxt "accounting_trains_late_arrival_time"
 msgid "Late arrival >10s"
-msgstr "Llegada tardía >10s"
+msgstr "Alveno malfrua >10s"
 
 #v1.1.37
 msgctxt "accounting_trains_maintenance"
 msgid "Maintenance"
-msgstr "Mantenimiento"
+msgstr "Prizorgado"
 
 #v1.1.31
 msgctxt "accounting_trains_purchases"
 msgid "New trains"
-msgstr "Nuevos trenes"
+msgstr "Novaj trajnoj"
 
 #v1.1.31
 msgctxt "accounting_trains_running"
 msgid "Running costs"
-msgstr "Costes de circulación"
+msgstr "Elspezoj pro uzado"
 
 #v1.7.15
 msgctxt "accounting_trains_running_distance"
 msgid "Running distance"
-msgstr "Distancia recorrida"
+msgstr "Distanco vojaĝata"
 
 #v1.7.15
 msgctxt "accounting_trains_running_time"
 msgid "Running time"
-msgstr "Tiempo recorrido"
+msgstr "Tempo de vojaĝado"
 
 #v1.1.31
 msgctxt "accounting_trains_sales"
 msgid "Train sales"
-msgstr "Venta de trenes"
+msgstr "Vendoj de trajnoj"
 
 #v1.8.24
 msgctxt "accounting_trains_signal_stop_time"
 msgid "Signal wait"
-msgstr "Espera en señal"
+msgstr "Atendado ĉe signalilo"
 
 #v1.8.24
 msgctxt "accounting_trains_stop_time"
 msgid "Scheduled stop"
-msgstr "Parada programada"
+msgstr "Planita haltado"
 
 #v1.11.14
 msgctxt "accounting_utc_warn"
 msgid "Accounting time: {}"
-msgstr "Tiempo conta.: {}"
+msgstr "Statistika tempo: {}"
 
 #v1.1.31
 msgctxt "accounting_week_title"
 msgid "Week of {0} {1} {2}"
-msgstr "Semana de {0} {1} {2}"
+msgstr "Semajno de {0} {1} {2}"
 
 #v1.1.31
 msgctxt "acl_action_allow"
 msgid "Always allow"
-msgstr "Permitir siempre"
+msgstr "Ĉiam malpermesu"
 
 #v1.1.31
 msgctxt "acl_action_drop"
 msgid "Ignore"
-msgstr "Ignorar"
+msgstr "Ignoru"
 
 #v1.1.31
 msgctxt "acl_action_queue"
 msgid "Ask me"
-msgstr "Pregúntame"
+msgstr "Demandu min"
 
 #v1.1.31
 msgctxt "acl_allowed"
 msgid "Allowed"
-msgstr "Permitido"
+msgstr "Permesita"
 
 #v1.1.31
 msgctxt "acl_denied"
 msgid "Denied"
-msgstr "Denegado"
+msgstr "Malpermesita"
 
 #v1.1.31
 msgctxt "acl_friend_action"
 msgid "If an uninvited friend wants to join:"
-msgstr "Si un amigo no invitado quiere entrar:"
+msgstr "Se ne invitita amiko volas aliĝi:"
 
 #v1.1.31
 msgctxt "acl_pending"
 msgid "Pending"
-msgstr "Pendiente"
+msgstr "Atendantaj"
 
 #v1.1.31
 msgctxt "acl_stranger_action"
 msgid "If an uninvited stranger wants to join:"
-msgstr "Si un desconocido quiere entrar:"
+msgstr "Se ne invitita strangulo volas aliĝi:"
 
 #v1.3.13
 msgctxt "alert_after"
 msgid "After:"
-msgstr "Pasados:"
+msgstr "Poste:"
 
 #v1.3.13
 msgctxt "alert_on"
 msgid "Alert on:"
-msgstr "Alerta en:"
+msgstr "Sciigu pri:"
 
 #v1.4.15
 msgctxt "alerts_pause_game"
 msgid "Alerts pause game"
-msgstr "Alertas pausan el juego"
+msgstr "Sciigoj paŭzas ludon"
 
 #v1.4.15
 msgctxt "alerts_pause_game_fastest"
 msgid "Even at fastest speed"
-msgstr "Incluso en máxima velocidad"
+msgstr "Eĉ ĉe la plej granda rapido"
 
 #v1.9.17
 msgctxt "alerts_pause_game_only_0_delay"
 msgid "Only if delay is 0"
-msgstr "Solo si pasados 0 minutos"
+msgstr "Nur se la prokrasto estas 0 minutoj"
 
 #v1.10.16
 msgctxt "all"
 msgid "All"
-msgstr "Todo"
+msgstr "Ĉiuj"
 
 #v1.2.22
 msgctxt "apply"
